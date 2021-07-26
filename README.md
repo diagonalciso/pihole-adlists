@@ -1,5 +1,5 @@
 # pihole-adlists
-These are my personal pinole adlistst. Please use with care!
+These are my personal Pi-Hole adlistst. Please use with care!
 Also, these lists might break some social media, except for Twitter.
 
 Contents:
